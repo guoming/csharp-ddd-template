@@ -1,0 +1,9 @@
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/csharp-ddd-template.deps.json
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/csharp-ddd-template.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/csharp-ddd-template.pdb
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/obj/Debug/netstandard2.0/csharp-ddd-template.csproj.AssemblyReference.cache
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/obj/Debug/netstandard2.0/csharp-ddd-template.AssemblyInfoInputs.cache
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/obj/Debug/netstandard2.0/csharp-ddd-template.AssemblyInfo.cs
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/obj/Debug/netstandard2.0/csharp-ddd-template.csproj.CoreCompileInputs.cache
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/obj/Debug/netstandard2.0/csharp-ddd-template.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/obj/Debug/netstandard2.0/csharp-ddd-template.pdb

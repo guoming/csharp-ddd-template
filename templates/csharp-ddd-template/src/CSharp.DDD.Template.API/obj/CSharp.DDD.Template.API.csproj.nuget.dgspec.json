@@ -1,0 +1,500 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/CSharp.DDD.Template.API.csproj": {}
+  },
+  "projects": {
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/CSharp.DDD.Template.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/CSharp.DDD.Template.API.csproj",
+        "projectName": "CSharp.DDD.Template.API",
+        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/CSharp.DDD.Template.API.csproj",
+        "packagesPath": "/Users/guoming/.nuget/packages/",
+        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
+          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj": {
+                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj",
+        "projectName": "CSharp.DDD.Template.Application",
+        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj",
+        "packagesPath": "/Users/guoming/.nuget/packages/",
+        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
+          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj": {
+                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj"
+              },
+              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj": {
+                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/CSharp.DDD.Template.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/CSharp.DDD.Template.Domain.Core.csproj",
+        "projectName": "CSharp.DDD.Template.Domain.Core",
+        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/CSharp.DDD.Template.Domain.Core.csproj",
+        "packagesPath": "/Users/guoming/.nuget/packages/",
+        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
+          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.0.100, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj",
+        "projectName": "CSharp.DDD.Template.Domain",
+        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj",
+        "packagesPath": "/Users/guoming/.nuget/packages/",
+        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
+          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/CSharp.DDD.Template.Domain.Core.csproj": {
+                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/CSharp.DDD.Template.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj",
+        "projectName": "CSharp.DDD.Template.Infrastructure",
+        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj",
+        "packagesPath": "/Users/guoming/.nuget/packages/",
+        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
+          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj": {
+                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Autofac.Extras.Quartz": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Com.Ctrip.Framework.Apollo": {
+              "target": "Package",
+              "version": "[2.4.4, )"
+            },
+            "Com.Ctrip.Framework.Apollo.Configuration": {
+              "target": "Package",
+              "version": "[2.4.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Hummingbird.AspNetCore.HealthChecks": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Hummingbird.AspNetCore.Metrics": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Hummingbird.Extensions.Cache": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Hummingbird.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Hummingbird.Extensions.DistributedLock": {
+              "target": "Package",
+              "version": "[1.15.3, )"
+            },
+            "Hummingbird.Extensions.DistributedLock.Redis": {
+              "target": "Package",
+              "version": "[1.15.3, )"
+            },
+            "Hummingbird.Extensions.DynamicRoute.Consul": {
+              "target": "Package",
+              "version": "[1.15.9, )"
+            },
+            "Hummingbird.Extensions.EventBus": {
+              "target": "Package",
+              "version": "[1.15.21, )"
+            },
+            "Hummingbird.Extensions.EventBus.RabbitMQ": {
+              "target": "Package",
+              "version": "[1.15.3, )"
+            },
+            "Hummingbird.Extensions.HealthChecks.MySql": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Hummingbird.Extensions.HealthChecks.Rabbitmq": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Hummingbird.Extensions.HealthChecks.Redis": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Hummingbird.Extensions.OpenTracing": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            },
+            "Hummingbird.Extensions.OpenTracking.Jaeger": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Hummingbird.Extensions.Quartz": {
+              "target": "Package",
+              "version": "[1.15.3, )"
+            },
+            "Hummingbird.Extensions.Resilience.Http": {
+              "target": "Package",
+              "version": "[1.15.3, )"
+            },
+            "Hummingbird.Extensions.UidGenerator": {
+              "target": "Package",
+              "version": "[1.15.5, )"
+            },
+            "Hummingbird.Extensions.UidGenerator.ConsulWorkIdStrategy": {
+              "target": "Package",
+              "version": "[1.15.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.AspNetCore.NodeServices": {
+              "target": "Package",
+              "version": "[3.1.20, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Security.Cryptography.Algorithms": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "log4net.Appender.MongoDbAppender": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

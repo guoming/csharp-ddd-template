@@ -1,0 +1,57 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageType>Template</PackageType>
+    <PackageVersion>1.0.1</PackageVersion>
+    <PackageId>CSharp.DDD.Template</PackageId>
+    <Title>CSharp DDD Template</Title>
+    <Authors>郭明</Authors>
+    <Description>Templates to use when creating an application.</Description>
+    <PackageTags>dotnet-new;templates;contoso</PackageTags>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <IncludeContentInPack>true</IncludeContentInPack>
+    <IncludeBuildOutput>false</IncludeBuildOutput>
+    <ContentTargetFolders>content</ContentTargetFolders>
+    <PackOnBuild>true</PackOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="templates\**\*" Exclude="templates\**\bin\**;templates\**\obj\**" />
+    <Compile Remove="**\*" />
+    <Content Include="readme.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="readme.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Update="templates\csharp-ddd-template\src\CSharp.DDD.Template.API\Config\appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="templates\csharp-ddd-template\src\CSharp.DDD.Template.API\Config\tracing.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="templates\csharp-ddd-template\src\CSharp.DDD.Template.API\Config\rabbitmq.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="templates\csharp-ddd-template\src\CSharp.DDD.Template.API\Config\logging.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="templates\csharp-ddd-template\src\CSharp.DDD.Template.API\Config\metrics.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="templates\csharp-ddd-template\src\CSharp.DDD.Template.API\Config\mysql.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="templates\csharp-ddd-template\src\CSharp.DDD.Template.API\Config\service.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="templates\csharp-ddd-template\src\CSharp.DDD.Template.API\Config\redis.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="templates\csharp-ddd-template\src\CSharp.DDD.Template.API\Config\log4net.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>

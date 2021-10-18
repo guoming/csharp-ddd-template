@@ -1,0 +1,15 @@
+﻿{
+  "EventBus": {
+    "HostName": "test.rabbitmq.service.consul",
+    "Port": "5672",
+    "VirtualHost": "/MDC_TEST",
+    "UserName": "mdc_user",
+    "Password": "mdc_user@passw0rd",
+    "SubscriptionClientName": "Client",
+    "SenderMaxConnections": 1,
+    "SenderAcquireRetryAttempts": 3,
+    "ReceiverMaxConnections": 1,
+    "ReveiverMaxDegreeOfParallelism": 2,
+    "ReceiverAcquireRetryAttempts": 3
+  }
+}

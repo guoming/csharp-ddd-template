@@ -1,0 +1,15 @@
+﻿{
+  "profiles": {
+    "CSharp.DDD.Template.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Apollo_MetaServer": "http://test.apollo-configservice.service.consul:8080",
+        "Apollo_Cluster": "default",
+        "Apollo_Secret": ""
+      }
+    }
+  }
+}

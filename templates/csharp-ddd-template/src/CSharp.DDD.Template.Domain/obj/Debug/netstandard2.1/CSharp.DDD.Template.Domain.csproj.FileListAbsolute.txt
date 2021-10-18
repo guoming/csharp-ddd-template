@@ -1,0 +1,12 @@
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Domain/bin/Debug/netstandard2.1/CSharp.DDD.Template.Domain.deps.json
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/bin/Debug/netstandard2.1/CSharp.DDD.Template.Domain.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/bin/Debug/netstandard2.1/CSharp.DDD.Template.Domain.pdb
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/bin/Debug/netstandard2.1/CSharp.DDD.Template.Domain.Core.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/bin/Debug/netstandard2.1/CSharp.DDD.Template.Domain.Core.pdb
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/obj/Debug/netstandard2.1/CSharp.DDD.Template.Domain.csproj.AssemblyReference.cache
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/obj/Debug/netstandard2.1/CSharp.DDD.Template.Domain.AssemblyInfoInputs.cache
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/obj/Debug/netstandard2.1/CSharp.DDD.Template.Domain.AssemblyInfo.cs
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/obj/Debug/netstandard2.1/CSharp.DDD.Template.Domain.csproj.CoreCompileInputs.cache
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Domain/obj/Debug/netstandard2.1/CSharp.DDD.Template.Domain.csproj.CopyComplete
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/obj/Debug/netstandard2.1/CSharp.DDD.Template.Domain.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/obj/Debug/netstandard2.1/CSharp.DDD.Template.Domain.pdb

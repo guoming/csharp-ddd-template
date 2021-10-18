@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Enums\LabelType.cs" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <None Remove="Commands\" />
+    <None Remove="Entities\" />
+    <None Remove="Events\" />
+    <None Remove="Commands\SendSmsCommand\" />
+    <None Remove="Events\SendSmsEvent\" />
+    <None Remove="Commands\LoginCommand\" />
+    <None Remove="ValueObjects\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Events\" />
+    <Folder Include="Commands\SendSmsCommand\" />
+    <Folder Include="Events\SendSmsEvent\" />
+    <Folder Include="Commands\LoginCommand\" />
+    <Folder Include="ValueObjects\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CSharp.DDD.Template.Domain.Core\CSharp.DDD.Template.Domain.Core.csproj" />
+  </ItemGroup>
+</Project>

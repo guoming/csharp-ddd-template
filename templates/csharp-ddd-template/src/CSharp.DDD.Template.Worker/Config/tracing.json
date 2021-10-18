@@ -1,0 +1,11 @@
+﻿{
+  "Tracing": {
+    "Enable": true,
+    "SerivceName": "csharp-example",
+    "FlushIntervalSeconds": 15,
+    "SamplerType": "const",
+    "LogSpans": true,
+    "AgentPort": "5775",
+    "AgentHost": "test.jaeger-agent.service.consul"
+  }
+}

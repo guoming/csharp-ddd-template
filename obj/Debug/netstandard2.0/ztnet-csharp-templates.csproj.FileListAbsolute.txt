@@ -1,0 +1,8 @@
+/Users/guoming/workspace/git.eminxing.com/project/csharp-templates/bin/Debug/netstandard2.0/ztnet-csharp-templates.deps.json
+/Users/guoming/workspace/git.eminxing.com/project/csharp-templates/bin/Debug/netstandard2.0/ztnet-csharp-templates.dll
+/Users/guoming/workspace/git.eminxing.com/project/csharp-templates/bin/Debug/netstandard2.0/ztnet-csharp-templates.pdb
+/Users/guoming/workspace/git.eminxing.com/project/csharp-templates/obj/Debug/netstandard2.0/ztnet-csharp-templates.AssemblyInfoInputs.cache
+/Users/guoming/workspace/git.eminxing.com/project/csharp-templates/obj/Debug/netstandard2.0/ztnet-csharp-templates.AssemblyInfo.cs
+/Users/guoming/workspace/git.eminxing.com/project/csharp-templates/obj/Debug/netstandard2.0/ztnet-csharp-templates.csproj.CoreCompileInputs.cache
+/Users/guoming/workspace/git.eminxing.com/project/csharp-templates/obj/Debug/netstandard2.0/ztnet-csharp-templates.dll
+/Users/guoming/workspace/git.eminxing.com/project/csharp-templates/obj/Debug/netstandard2.0/ztnet-csharp-templates.pdb

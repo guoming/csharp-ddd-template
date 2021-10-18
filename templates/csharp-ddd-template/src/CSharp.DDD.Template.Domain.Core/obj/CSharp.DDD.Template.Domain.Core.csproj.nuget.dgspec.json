@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/CSharp.DDD.Template.Domain.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/CSharp.DDD.Template.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/CSharp.DDD.Template.Domain.Core.csproj",
+        "projectName": "CSharp.DDD.Template.Domain.Core",
+        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/CSharp.DDD.Template.Domain.Core.csproj",
+        "packagesPath": "/Users/guoming/.nuget/packages/",
+        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
+          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.0.100, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

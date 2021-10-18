@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvdziJooM1+49MRbiZ2AEDJV1A+FjezvduaKvECIA3s2Gb+JOUSOl8f0z1x8c51+eCp/uGVBzl27BjCyvawsaQ==",
+  "success": true,
+  "projectFilePath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/csharp-ddd-template.csproj",
+  "expectedPackageFiles": [
+    "/Users/guoming/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/guoming/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

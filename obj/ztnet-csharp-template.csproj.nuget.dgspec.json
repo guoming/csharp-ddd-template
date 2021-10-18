@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/guoming/workspace/github.com/guoming/csharp-template/ztnet-csharp-template.csproj": {}
+  },
+  "projects": {
+    "/Users/guoming/workspace/github.com/guoming/csharp-template/ztnet-csharp-template.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-template/ztnet-csharp-template.csproj",
+        "projectName": "ZTNET.CSharp.Templates",
+        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-template/ztnet-csharp-template.csproj",
+        "packagesPath": "/Users/guoming/.nuget/packages/",
+        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-template/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/guoming/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

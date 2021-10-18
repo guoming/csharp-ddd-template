@@ -1,0 +1,17 @@
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Infrastructure/bin/Debug/net5.0/CSharp.DDD.Template.Infrastructure.deps.json
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/bin/Debug/net5.0/CSharp.DDD.Template.Infrastructure.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Infrastructure/bin/Debug/net5.0/ref/CSharp.DDD.Template.Infrastructure.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/bin/Debug/net5.0/CSharp.DDD.Template.Infrastructure.pdb
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/bin/Debug/net5.0/CSharp.DDD.Template.Domain.Core.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/bin/Debug/net5.0/CSharp.DDD.Template.Domain.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/bin/Debug/net5.0/CSharp.DDD.Template.Domain.pdb
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/bin/Debug/net5.0/CSharp.DDD.Template.Domain.Core.pdb
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/obj/Debug/net5.0/CSharp.DDD.Template.Infrastructure.csproj.AssemblyReference.cache
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/obj/Debug/net5.0/CSharp.DDD.Template.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/obj/Debug/net5.0/CSharp.DDD.Template.Infrastructure.AssemblyInfoInputs.cache
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/obj/Debug/net5.0/CSharp.DDD.Template.Infrastructure.AssemblyInfo.cs
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/obj/Debug/net5.0/CSharp.DDD.Template.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Infrastructure/obj/Debug/net5.0/CSharp.DDD.Template.Infrastructure.csproj.CopyComplete
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/obj/Debug/net5.0/CSharp.DDD.Template.Infrastructure.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/obj/Debug/net5.0/ref/CSharp.DDD.Template.Infrastructure.dll
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/obj/Debug/net5.0/CSharp.DDD.Template.Infrastructure.pdb
