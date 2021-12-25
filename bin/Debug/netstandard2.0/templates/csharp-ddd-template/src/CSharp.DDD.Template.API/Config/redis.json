@@ -1,0 +1,7 @@
+﻿{
+  "Redis": {
+    "Host": "test.redis.service.consul",
+    "Port": "63100",
+    "Password": "tY7cRu9HG_jyDw2r"
+  }
+}

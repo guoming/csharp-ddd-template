@@ -7,3 +7,12 @@
 /Users/guoming/workspace/github.com/guoming/csharp-ddd-template/obj/Debug/netstandard2.0/csharp-ddd-template.csproj.CoreCompileInputs.cache
 /Users/guoming/workspace/github.com/guoming/csharp-ddd-template/obj/Debug/netstandard2.0/csharp-ddd-template.dll
 /Users/guoming/workspace/github.com/guoming/csharp-ddd-template/obj/Debug/netstandard2.0/csharp-ddd-template.pdb
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/Config/appsettings.json
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/Config/log4net.xml
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/Config/logging.json
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/Config/metrics.json
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/Config/mysql.json
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/Config/rabbitmq.json
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/Config/redis.json
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/Config/service.json
+/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/bin/Debug/netstandard2.0/templates/csharp-ddd-template/src/CSharp.DDD.Template.API/Config/tracing.json
