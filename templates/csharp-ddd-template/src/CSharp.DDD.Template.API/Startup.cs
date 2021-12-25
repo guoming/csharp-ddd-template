@@ -16,6 +16,9 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using Swashbuckle.AspNetCore.Swagger;
 using CSharp.DDD.Template.Infrastructure;
+using MediatR;
+using System.Reflection;
+
 namespace CSharp.DDD.Template.API
 {
     public class Startup
@@ -64,6 +67,7 @@ namespace CSharp.DDD.Template.API
                 option.AssumeDefaultVersionWhenUnspecified = true;
             });
 
+            services.AddMediatR(Assembly.GetExecutingAssembly());
             services.AddAutofac();
             services.AddHealthChecks(checks =>
             {

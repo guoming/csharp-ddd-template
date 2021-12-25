@@ -23,48 +23,46 @@
   <ItemGroup>
    
 
-    <PackageReference Include="Hummingbird.AspNetCore.HealthChecks" Version="1.15.0" />
-    <PackageReference Include="Hummingbird.Extensions.Configuration.Json" Version="1.15.0" />
-    <PackageReference Include="Hummingbird.Extensions.DistributedLock.Redis" Version="1.15.3" />
-    <PackageReference Include="Hummingbird.Extensions.UidGenerator" Version="1.15.5" />
-    <PackageReference Include="Hummingbird.Extensions.UidGenerator.ConsulWorkIdStrategy" Version="1.15.9" />
-    <PackageReference Include="Hummingbird.Extensions.Cache" Version="1.15.0" />
-    <PackageReference Include="Hummingbird.Extensions.DistributedLock" Version="1.15.3" />
-    <PackageReference Include="Hummingbird.Extensions.DynamicRoute.Consul" Version="1.15.9" />
-    <PackageReference Include="Hummingbird.Extensions.HealthChecks.MySql" Version="1.15.0" />
-    <PackageReference Include="Hummingbird.Extensions.HealthChecks.Rabbitmq" Version="1.15.0" />
-    <PackageReference Include="Hummingbird.Extensions.HealthChecks.Redis" Version="1.15.0" />
-    <PackageReference Include="Hummingbird.Extensions.EventBus" Version="1.15.21" />
-    <PackageReference Include="Hummingbird.Extensions.EventBus.RabbitMQ" Version="1.15.3" />
-    <PackageReference Include="Hummingbird.Extensions.Resilience.Http" Version="1.15.3" />    
-    <PackageReference Include="Microsoft.AspNetCore.NodeServices" Version="3.1.20" />
-    <PackageReference Include="Microsoft.Extensions.Logging" Version="5.0.0" />
-    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="5.0.0" />
-    <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="5.0.4" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="5.0.0" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="5.0.0" />
+    <PackageReference Include="Hummingbird.AspNetCore.HealthChecks" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.Configuration.Json" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.DistributedLock.Redis" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.UidGenerator" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.UidGenerator.ConsulWorkIdStrategy" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.Cache" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.DistributedLock" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.DynamicRoute.Consul" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.HealthChecks.MySql" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.HealthChecks.Rabbitmq" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.HealthChecks.Redis" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.EventBus" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.EventBus.RabbitMQ" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.Resilience.Http" Version="1.17.0" />    
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
 
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.0" />
     <PackageReference Include="System.Security.Cryptography.Algorithms" Version="4.3.1" />
-    <PackageReference Include="System.Text.Encoding.CodePages" Version="5.0.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
 
     <PackageReference Include="log4net.Appender.MongoDbAppender" Version="1.1.0" />
-    <PackageReference Include="Dapper" Version="2.0.90" />
+    <PackageReference Include="Dapper" Version="2.0.123" />
    
     <PackageReference Include="Autofac" Version="6.3.0" />
-    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
     <PackageReference Include="Autofac.Extras.DynamicProxy" Version="6.0.0" />
-    <PackageReference Include="Autofac.Extras.Quartz" Version="7.2.0" />
-    <PackageReference Include="Com.Ctrip.Framework.Apollo" Version="2.4.4" />
-    <PackageReference Include="Com.Ctrip.Framework.Apollo.Configuration" Version="2.4.1.1" />
+    <PackageReference Include="Autofac.Extras.Quartz" Version="7.3.0" />
+    <PackageReference Include="Com.Ctrip.Framework.Apollo" Version="2.5.0" />
+    <PackageReference Include="Com.Ctrip.Framework.Apollo.Configuration" Version="2.5.0" />
 
 
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.10" />
-    <PackageReference Include="Hummingbird.AspNetCore.Metrics" Version="1.0.0" />
-    <PackageReference Include="Hummingbird.Extensions.OpenTracing" Version="1.15.1" />
-    <PackageReference Include="Hummingbird.Extensions.OpenTracking.Jaeger" Version="1.15.0" />
-    <PackageReference Include="Hummingbird.Extensions.Quartz" Version="1.15.3" />
+    <PackageReference Include="Hummingbird.AspNetCore.Metrics" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.OpenTracing" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.OpenTracking.Jaeger" Version="1.17.0" />
+    <PackageReference Include="Hummingbird.Extensions.Quartz" Version="1.17.0" />
   </ItemGroup>
 
   <ItemGroup>

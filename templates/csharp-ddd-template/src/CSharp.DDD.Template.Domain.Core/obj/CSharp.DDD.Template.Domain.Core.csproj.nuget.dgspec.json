@@ -18,7 +18,7 @@
         ],
         "configFilePaths": [
           "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
-          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+          "/Users/guoming/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -44,19 +44,19 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[8.0.100, )"
+              "version": "[10.3.6, )"
             },
             "MediatR": {
               "target": "Package",
-              "version": "[4.1.0, )"
+              "version": "[9.0.0, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[4.0.0, )"
+              "version": "[9.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [

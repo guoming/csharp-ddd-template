@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj": {}
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj": {}
   },
   "projects": {
-    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj": {
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj",
+        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj",
         "projectName": "CSharp.DDD.Template.Application",
-        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj",
+        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Application/CSharp.DDD.Template.Application.csproj",
         "packagesPath": "/Users/guoming/.nuget/packages/",
-        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Application/obj/",
+        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Application/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
-          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+          "/Users/guoming/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -30,11 +30,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj": {
-                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj"
+              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj": {
+                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj"
               },
-              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj": {
-                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj"
+              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj": {
+                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj"
               }
             }
           }
@@ -81,7 +81,7 @@
         ],
         "configFilePaths": [
           "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
-          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+          "/Users/guoming/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -107,19 +107,19 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[8.0.100, )"
+              "version": "[10.3.6, )"
             },
             "MediatR": {
               "target": "Package",
-              "version": "[4.1.0, )"
+              "version": "[9.0.0, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[4.0.0, )"
+              "version": "[9.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -141,21 +141,21 @@
         }
       }
     },
-    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj": {
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj",
+        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj",
         "projectName": "CSharp.DDD.Template.Domain",
-        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj",
+        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj",
         "packagesPath": "/Users/guoming/.nuget/packages/",
-        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/obj/",
+        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
-          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+          "/Users/guoming/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -201,21 +201,21 @@
         }
       }
     },
-    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj": {
+    "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj",
+        "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj",
         "projectName": "CSharp.DDD.Template.Infrastructure",
-        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj",
+        "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Infrastructure/CSharp.DDD.Template.Infrastructure.csproj",
         "packagesPath": "/Users/guoming/.nuget/packages/",
-        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Infrastructure/obj/",
+        "outputPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/NuGet.Config",
-          "/Users/guoming/.nuget/NuGet/NuGet.Config"
+          "/Users/guoming/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -227,8 +227,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj": {
-                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj"
+              "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj": {
+                "projectPath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/templates/csharp-ddd-template/Src/CSharp.DDD.Template.Domain/CSharp.DDD.Template.Domain.csproj"
               }
             }
           }
@@ -249,7 +249,7 @@
             },
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[7.1.0, )"
+              "version": "[7.2.0, )"
             },
             "Autofac.Extras.DynamicProxy": {
               "target": "Package",
@@ -257,123 +257,115 @@
             },
             "Autofac.Extras.Quartz": {
               "target": "Package",
-              "version": "[7.2.0, )"
+              "version": "[7.3.0, )"
             },
             "Com.Ctrip.Framework.Apollo": {
               "target": "Package",
-              "version": "[2.4.4, )"
+              "version": "[2.5.0, )"
             },
             "Com.Ctrip.Framework.Apollo.Configuration": {
               "target": "Package",
-              "version": "[2.4.1.1, )"
+              "version": "[2.5.0, )"
             },
             "Dapper": {
               "target": "Package",
-              "version": "[2.0.90, )"
+              "version": "[2.0.123, )"
             },
             "Hummingbird.AspNetCore.HealthChecks": {
               "target": "Package",
-              "version": "[1.15.0, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.AspNetCore.Metrics": {
               "target": "Package",
-              "version": "[1.0.0, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.Cache": {
               "target": "Package",
-              "version": "[1.15.0, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.Configuration.Json": {
               "target": "Package",
-              "version": "[1.15.0, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.DistributedLock": {
               "target": "Package",
-              "version": "[1.15.3, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.DistributedLock.Redis": {
               "target": "Package",
-              "version": "[1.15.3, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.DynamicRoute.Consul": {
               "target": "Package",
-              "version": "[1.15.9, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.EventBus": {
               "target": "Package",
-              "version": "[1.15.21, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.EventBus.RabbitMQ": {
               "target": "Package",
-              "version": "[1.15.3, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.HealthChecks.MySql": {
               "target": "Package",
-              "version": "[1.15.0, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.HealthChecks.Rabbitmq": {
               "target": "Package",
-              "version": "[1.15.0, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.HealthChecks.Redis": {
               "target": "Package",
-              "version": "[1.15.0, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.OpenTracing": {
               "target": "Package",
-              "version": "[1.15.1, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.OpenTracking.Jaeger": {
               "target": "Package",
-              "version": "[1.15.0, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.Quartz": {
               "target": "Package",
-              "version": "[1.15.3, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.Resilience.Http": {
               "target": "Package",
-              "version": "[1.15.3, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.UidGenerator": {
               "target": "Package",
-              "version": "[1.15.5, )"
+              "version": "[1.17.0, )"
             },
             "Hummingbird.Extensions.UidGenerator.ConsulWorkIdStrategy": {
               "target": "Package",
-              "version": "[1.15.9, )"
-            },
-            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
-              "target": "Package",
-              "version": "[5.0.10, )"
-            },
-            "Microsoft.AspNetCore.NodeServices": {
-              "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[1.17.0, )"
             },
             "Microsoft.Extensions.Configuration.FileExtensions": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.Logging.Console": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
               "target": "Package",
-              "version": "[5.0.4, )"
+              "version": "[6.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -385,7 +377,7 @@
             },
             "System.Text.Encoding.CodePages": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.0.0, )"
             },
             "log4net.Appender.MongoDbAppender": {
               "target": "Package",

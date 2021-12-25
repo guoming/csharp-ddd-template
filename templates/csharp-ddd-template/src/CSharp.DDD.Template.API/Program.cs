@@ -28,7 +28,6 @@ namespace CSharp.DDD.Template.API
             return WebHost.CreateDefaultBuilder(args)
             .UseIISIntegration()
             .UseKestrel()
-            .UseLibuv()
             .UseHealthChecks("/healthcheck")
             .ConfigureAppConfiguration((context, config) =>
             {

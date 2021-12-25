@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XvdziJooM1+49MRbiZ2AEDJV1A+FjezvduaKvECIA3s2Gb+JOUSOl8f0z1x8c51+eCp/uGVBzl27BjCyvawsaQ==",
+  "dgSpecHash": "Hl5ok3YGYNcVTgthsD3maSj95CcRFjiiYtycfNsuacPQX/6f4t9qrAfEIHGloTw9iP69Pn0x8EDmKhoMvGohMg==",
   "success": true,
   "projectFilePath": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/csharp-ddd-template.csproj",
   "expectedPackageFiles": [

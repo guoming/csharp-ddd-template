@@ -5,7 +5,7 @@
   },
   "projects": {
     "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/csharp-ddd-template.csproj": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "restore": {
         "projectUniqueName": "/Users/guoming/workspace/github.com/guoming/csharp-ddd-template/csharp-ddd-template.csproj",
         "projectName": "CSharp.DDD.Template",
